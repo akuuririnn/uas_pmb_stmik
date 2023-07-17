@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965143939778",
+    "project_id": "pmb-stmik-182b3",
+    "storage_bucket": "pmb-stmik-182b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965143939778:android:8ac1d39e78484bbe4a495b",
+        "android_client_info": {
+          "package_name": "com.example.pmb_stmik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965143939778-r1lbqq1tpuppusk6a1l3j07vn109llqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7BAf2TZaOrS_cn1i8y0Ip3E76h-621U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965143939778-r1lbqq1tpuppusk6a1l3j07vn109llqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
